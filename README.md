@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Contract Smells Auto Label & Detection</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 10px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 3px;
-    }
-    a {
-      color: #1a0dab;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul, ol {
-      margin-bottom: 20px;
-    }
-  </style>
-</head>
-<body>
+
 
   <h1>Contract Smells Auto Label & Detection</h1>
 
@@ -112,5 +74,3 @@
     </ul>
   </section>
 
-</body>
-</html>
